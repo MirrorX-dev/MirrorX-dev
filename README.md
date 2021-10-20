@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, 👋  I'm MirrorX_dev
+I'm a student learning actually Java & MySQL, working with Eclipse IDE, VSC.
+También subo directos y hago vídeos interesantes en YouTube click [here](https://avneesh0612.hashnode.dev/)
 
-<!--
-**MirrorX-dev/MirrorX-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 📫 How to reach me?
+Feel free to reach me out on any platforms [here](https://www.youtube.com/channel/UC30yU2hGfhhoNzOHDXOf4zw/videos)
 
-Here are some ideas to get you started:
+[![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirrorX-dev&theme=dracula)](https://github.com/MirrorX-dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MirrorX-dev&theme=dracula&layout=compact)](https://github.com/MirrorX-dev)
+
+------
+  
+Credit: [Avneesh Agarwal](https://github.com/avneesh0612)
