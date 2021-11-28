@@ -1,6 +1,5 @@
 ### Hi there, 👋  I'm MirrorX_dev
 I'm a student learning actually Java & MySQL, working with Eclipse IDE, VSC.
-También subo directos y hago vídeos interesantes en YouTube click [here](https://avneesh0612.hashnode.dev/)
 
 * 📫 Want to reach me?
 Feel free to contact me!
