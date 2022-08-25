@@ -6,5 +6,5 @@ Feel free to contact me!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirrorX-dev&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirrorX-dev&layout=compact)](https://github.com/MirrorX-dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirrorX-dev&layout=compact&theme=synthwave)](https://github.com/MirrorX-dev/github-readme-stats)
 
