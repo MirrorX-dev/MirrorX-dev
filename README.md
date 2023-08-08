@@ -1,8 +1,35 @@
 ### Hi there, 👋  I'm MirrorX_dev
-I'm a student learning actually Java & MySQL, working with Eclipse IDE, VSC.
-
-* 📫 Want to reach me?
-Feel free to contact me!
+.
+├── Lenguajes de desarollo primarios:
+│   ├── Aplicaciones hibridas:
+│   │   ├── (Backend)
+│   │   │   ├── Java
+│   │   │   │   └── Spring Framework
+│   │   │   └── JavaScript
+│   │   │       ├── React
+│   │   │       └── .
+│   │   └── (FrontEnd)
+│   │       ├── HTML
+│   │       ├── CSS
+│   │       ├── JavaScript
+│   │       └── .
+│   ├── Aplicaciones nativas:
+│   │   └── (Backend y Frontend)
+│   │       ├── Java
+│   │       │   └── Android Studio (Android plataforma).
+│   │       └── .
+│   └── Aplicaciones de servicios:
+│       └── (Backend)
+│           └── Java
+│               ├── Apache
+│               └── .
+├── Lenguajes en aprendizaje:
+│   ├── Java
+│   ├── JavaScript
+│   └── .
+└── Frameworks en aprendizaje:
+    ├── React
+    └── Node.js
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirrorX-dev&show_icons=true&theme=synthwave)
 
